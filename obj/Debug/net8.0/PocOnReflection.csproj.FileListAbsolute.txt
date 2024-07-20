@@ -1,0 +1,14 @@
+D:\C#\PocOnReflection\bin\Debug\net8.0\PocOnReflection.exe
+D:\C#\PocOnReflection\bin\Debug\net8.0\PocOnReflection.deps.json
+D:\C#\PocOnReflection\bin\Debug\net8.0\PocOnReflection.runtimeconfig.json
+D:\C#\PocOnReflection\bin\Debug\net8.0\PocOnReflection.dll
+D:\C#\PocOnReflection\bin\Debug\net8.0\PocOnReflection.pdb
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.AssemblyInfoInputs.cache
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.AssemblyInfo.cs
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.csproj.CoreCompileInputs.cache
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.dll
+D:\C#\PocOnReflection\obj\Debug\net8.0\refint\PocOnReflection.dll
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.pdb
+D:\C#\PocOnReflection\obj\Debug\net8.0\PocOnReflection.genruntimeconfig.cache
+D:\C#\PocOnReflection\obj\Debug\net8.0\ref\PocOnReflection.dll
